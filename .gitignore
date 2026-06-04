@@ -1,0 +1,35 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# App 模块构建产物
+app/build/
+app/release/
+
+# 临时/无关文件
+ds.svg
+ds3.svg
+error.txt
+error2.txt
+开发方案.md
+bicy_studio.jks
+node_modules/
+ROOM/
+Universal Dependencies 2.18/
+Universal Dependencies 2.18.zip
+LORE.lottie
+package.json
+package-lock.json
+ud-treebanks-v2.18/
