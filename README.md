@@ -37,7 +37,7 @@
 
 1. **克隆项目**
    ```bash
-   git clone <仓库地址>
+   git clone https://github.com/byxixiaoshao/LORE.git
    cd NovelEditor
    ```
 
@@ -68,7 +68,7 @@
 - **minSdk**: 24（Android 7.0）
 - **targetSdk**: 34（Android 14）
 - **混淆**：Release 模式已开启 R8 混淆与资源压缩
-- **版本号**：`Bicy V1.260603`
+- **版本号**：`Bicy V1.260604`
 
 ---
 
